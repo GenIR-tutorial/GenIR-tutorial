@@ -1,4 +1,4 @@
-# ECIR 2023 Tutorial: Recent Advances in Generative Information Retrieval
+# SIGIR 2024 Tutorial: Recent Advances in Generative Information Retrieval
 
 The website is [here](https://ecir2024-GenerativeIR.github.io/).
 
